@@ -44,6 +44,7 @@ def calculator():
         print("Invalid choice! Please select a valid operation.")
 calculator()
 '''
+output:-
 1. Add
 2. Subtract
 3. Multiply
@@ -52,7 +53,7 @@ calculator()
 Enter choice (1/2/3/4/5): 1
 Enter first number: 6
 Enter second number: 7
-6.0 + 7.0 = 6.0
+6.0 + 7.0 = 13.0
 1. Add
 2. Subtract
 3. Multiply
